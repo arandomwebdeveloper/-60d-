@@ -1,0 +1,10 @@
+h1 {
+    border-style: outset;
+    border-color: aquamarine;
+    border-radius: 50em;
+}
+h3 {
+    border-style: inset;
+    border-color: aquamarine;
+    border-radius: 20em
+}
