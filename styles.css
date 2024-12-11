@@ -1,3 +1,6 @@
+body {
+    color: #000000
+}
 h1 {
     border-style: outset;
     border-color: aquamarine;
